@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class Vocabulary {
-    Map<String , String> voc = new HashMap<>();
+    private Map<String , String> voc = new HashMap<>();
 
     public String trans (String word){
 
